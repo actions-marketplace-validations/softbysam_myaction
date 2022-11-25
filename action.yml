@@ -1,5 +1,5 @@
 name: "samact123221"
-escription: "my action"
+description: "my action"
 
 runs:
   using: composite
