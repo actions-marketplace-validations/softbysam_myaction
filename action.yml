@@ -1,5 +1,6 @@
 name: "samact123221"
 description: "my action"
+icon: chevron-right
 
 runs:
   using: composite
